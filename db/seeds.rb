@@ -1,0 +1,10 @@
+User.create!(first_name: "Agathe", last_name: "V", email: "agathe.v@gmail.com", password: "azerty")
+User.create!(first_name: "Alexandre", last_name: "D", email: "alexandre.d@gmail.com", password: "azerty")
+
+Product.create!(name: "NIKE AIR FORCE 1 FONTANKA", price: 125, photo_url: "https://www.courir.com/dw/image/v2/BCCL_PRD/on/demandware.static/-/Sites-master-catalog-courir/default/dwc3c72684/images/hi-res/001494938_101.png?sw=600&sh=600&sm=fit", description: "Les Air Force 1 se refont une beauté et se parent d’un tout nouveau design ultra coloré ! Prenez de la hauteur avec leur semelle à plateforme oversize, et bénéficiez d’un confort optimal avec leur col rembourré. Craquez pour leur tige au design colorblock, qui ne manquera pas de surprendre !")
+Product.create!(name: "CONVERSE RUN STAR HIKE", price: 120, photo_url: "https://www.courir.com/dw/image/v2/BCCL_PRD/on/demandware.static/-/Sites-master-catalog-courir/default/dwa33654d8/images/hi-res/001471526_101.png?sw=600&sh=600&sm=fit", description: "Ce modèle est le fruit de la collaboration entre Converse et JW Anderson. On reconnaît bien la silhouette de la mythique basket, mais la semelle oversize lui donne un look futuriste. En plus du macaron à la cheville, vous retrouverez l’étoile sur le talon pour un clin d’œil discret.")
+Product.create!(name: "ADIDAS ORIGINALS STAN SMITH PRIMEGREEN", price: 75, photo_url: "https://www.courir.com/dw/image/v2/BCCL_PRD/on/demandware.static/-/Sites-master-catalog-courir/default/dw4079dd7a/images/hi-res/001487987_101.png?sw=600&sh=600&sm=fit", description: "Craquez pour une paire de sneakers qui terminera parfaitement toutes vos tenues avec ce modèle incontournable signé Adidas. Son design blanc se pare d’une fermeture à lacets et est rehaussé par des contreforts bleu marine, arborant le trèfle et le lettrage Stan Smith.")
+
+Order.create!(user: User.first, product: Product.first, delivered: true)
+Order.create!(user: User.first, product: Product.last, delivered: false)
+Order.create!(user: User.last, product: Product.last, delivered: false)
