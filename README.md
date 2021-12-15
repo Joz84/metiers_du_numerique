@@ -1,5 +1,7 @@
 # Atelier Métiers du numérique
 
+<img src="readme_images.site.png">
+
 ### Liste des différents métiers abordés au cours de cet atelier:
 https://www.notion.so/Career-Paths-3af65d4fd523477898aabceb00a326a4
 
@@ -16,6 +18,8 @@ La séance est composée de deux ateliers principaux:
 
 ### Résultats attendus:
 - Une mosaïque des différents métiers
+
+<img src="readme_images.tableau.jpg">
 
 ### Déroulé: 
 - Après s’être présenter, demander à chaque participants de ce présenter
