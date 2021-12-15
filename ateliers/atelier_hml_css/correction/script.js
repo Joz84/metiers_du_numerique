@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/Joz84/jm_shoes/main/data.csv"
+const url = "https://raw.githubusercontent.com/Joz84/metiers_du_numerique/master/ateliers/atelier_dev_ops/products_202112030250.csv"
 
 const card = (product) => {
     return `<div class="col-md-4">
