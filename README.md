@@ -2,8 +2,72 @@
 
 <img src="readme_images/site.png">
 
+### Résumé de l'atelier
+L’atelier se divise en deux parties:
+
+#### 1ère partie:
+##### Les objectifs :
+Cette partie à pour objectif de (re)préciser et clarifier les définitions des différents métiers présents dans le numérique. De manière plus précise cela consiste à :
+- Construire ensemble une liste des grands domaines d’activité présents dans le numérique.
+- Présenter les principaux métiers présents dans ces différents domaines et plus particulièrement les compétences nécessaires et les actions principales pour chacun d’entre eux. 
+- Les interactions entres les différents domaines.
+
+##### Déroulé: 
+Cette partie est un atelier participatif ou l’ensemble des participants co-construisent une fresque des différents domaines du numérique. Au cours de la construction une discussion est ouverte sur chacun des métiers/domaines abordés. 
+
+#### 2ème partie:
+##### Les objectifs :
+La 2ème partie consiste à illustrer succinctement le quotidien de 10 métiers représentatifs des grands domaines d’activité du numérique. De plus, il permet d’illustrer l’interaction et l’interdépendance de ces différents métiers.
+
+##### Déroulé :
+Le groupe se positionne comme une agence Web/Data qui a pour mission de concevoir, construire et faire grandir un site de e-commerce. Cette mise en situation oblige le groupe à réfléchir aux différents acteurs, les actions et compétences nécessaires à cette mission. Chaque sous-atelier permet de voir un outil phare utilisé au quotidien par chacun de ces acteurs nécessaires.
+
+#### Liste non exhaustive des domaines/métiers communément abordés :
+- Product Owner/Manager
+- Design
+- Référencement
+- Communication/Community manager
+- Web Back/Front
+- Testing
+- Sécurité
+- Développement opérationnel
+- Administration réseaux
+- Big Data/ IA Data Scientist/Analyste 
+- Growth Hacking
+- …
+
+#### Documents rendus en fin d’atelier:
+Photo de la fresque réalisée au cours de la 1ere partie.
+Liste des différents métiers avec les compétences et les actions menés par chacun d’eux.
+URL du site web créé par le groupe pendant la seconde partie
+Liste des outils visuels open source utilisés au cours de l’atelier (palette de couleur, base de données d’images/logos…)
+
 ### Liste des différents métiers abordés au cours de cet atelier:
 https://www.notion.so/Career-Paths-3af65d4fd523477898aabceb00a326a4
+
+### Ressources visuelles
+
+#### Les générateurs de palette de couleurs
+- https://paletton.com/
+- https://colorhunt.co/
+- https://coolors.co/
+- https://www.colourlovers.com/
+- https://www.colorzilla.com/
+- https://graphiste.com/blog/choisir-palette-couleurs
+
+#### Les ressources d'images
+- http://labs.tineye.com/
+- https://www.pexels.com/
+- https://pixabay.com/fr/
+
+#### Les ressources d'icons et de logos
+- https://thenounproject.com/
+- https://fontawesome.com/
+- https://fr.freelogodesign.org/
+
+#### Les ressources d'illustrations:
+- https://undraw.co/
+- https://blush.design/collections/open-peeps/open-peeps
 
 ## Mise en situation:
 L’animateur prend le rôle d’un porteur de projet qui souhaite créer un site de e-commerce de chaussures. Le groupe représente l’agence web qui va devoir l’accompagner pour créer ce e-commerce et lui proposer une stratégie qui devrait lui permettre de croitre. Pour ce faire elle devra identifier les différents métiers nécessaires et concevoir la stratégie à mettre en place.
