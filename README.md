@@ -98,6 +98,7 @@ La séance est composée de deux ateliers principaux:
 - Dépouiller les métiers sur les post-it bleus avec le groupe. Le groupe doit faire le choix de où positionner le métier par rapport aux domaines d’activité identifiés. Profiter de ce dépouillement pour ouvrir la discussion sur les différents métiers du domaine. Par exemple la différence enter UI et UX designer. 
 - Ecrire au fur et à mesure les domaines d’activité sur le tableau
 S’assurer que tous les domaines d’activité soient cités. Si ce n’est pas le cas les rajouter
+- Présenter succintement la répartition des différents dommaines d'activité dans le bassin d'emploi. (source: https://www.opiiec.fr/secteur/19) 
 - Répondre aux questions supplémentaires
 
 ## 2ème atelier: Illustrer ces différents métiers
